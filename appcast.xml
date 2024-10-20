@@ -1,29 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Your App Name</title>
-        <description>Most recent updates to Your App</description>
-        <language>en</language>
+        <title>ZenFocus</title>
         <item>
-            <title>Version 2.0.0</title>
-            <description><![CDATA[
-                <h2>What's New</h2>
-                <ul>
-                    <li>Major feature addition: Dark mode support</li>
-                    <li>Performance improvements</li>
-                    <li>Bug fixes</li>
-                </ul>
-            ]]>
-            </description>
-            <pubDate>Sat, 20 Oct 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://example.com/downloads/YourApp_2.0.0.zip"
-                       sparkle:version="2.0.0"
-                       sparkle:shortVersionString="2.0.0"
-                       sparkle:os="macos"
-                       length="1234567"
-                       type="application/octet-stream"
-                       sparkle:edSignature="your_ed25519_signature_here"/>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <title>0.2.4</title>
+            <pubDate>Wed, 09 Oct 2024 21:10:27 +0545</pubDate>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://beingpax.github.io/ZenFocus-App/ZenFocus.dmg" length="8419911" type="application/octet-stream" sparkle:edSignature="dIoLOwfbSBRffoFwNb2DvK7pLZYb/JcQlcnBHmfK004FoHfUZP3yDYvMIyVcwAFHJ7ZfG8G6NTyA9/uQw6GPAw=="/>
         </item>
     </channel>
 </rss>
