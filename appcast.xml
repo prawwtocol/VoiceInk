@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ZenFocus</title>
+        <title>VoiceInk</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Wed, 09 Oct 2024 21:10:27 +0545</pubDate>
-            <sparkle:version>204</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <title>0.1</title>
+            <pubDate>Sun, 20 Oct 2024 21:26:46 +0545</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://beingpax.github.io/ZenFocus-App/ZenFocus.dmg" length="8419911" type="application/octet-stream" sparkle:edSignature="dIoLOwfbSBRffoFwNb2DvK7pLZYb/JcQlcnBHmfK004FoHfUZP3yDYvMIyVcwAFHJ7ZfG8G6NTyA9/uQw6GPAw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/blob/main/VoiceInk.dmg" length="2700805" type="application/octet-stream" sparkle:edSignature="mRe24a+BlTB/vf0Po1fvb9OV07yrfX+US0kzPzT1LQ11Nn/ERwYNzpHDp5IeyQz2NleDHf3PqaU1OzdBQMJaBQ=="/>
         </item>
     </channel>
 </rss>
