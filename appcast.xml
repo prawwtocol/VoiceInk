@@ -8,7 +8,7 @@
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://beingpax.github.io/VoiceInk/VoiceInk.dmg" length="4429621" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.1/VoiceInk.dmg" length="4429621" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
