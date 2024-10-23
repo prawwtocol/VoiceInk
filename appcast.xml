@@ -3,12 +3,12 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.12</title>
-            <pubDate>Wed, 23 Oct 2024 18:43:13 +0545</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.12</sparkle:shortVersionString>
+            <title>0.13</title>
+            <pubDate>Wed, 23 Oct 2024 21:52:43 +0545</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.1/VoiceInk.dmg" length="4431875" type="application/octet-stream" sparkle:edSignature="b/m4fqkI6457qhcZGkC9How4mhOcRP3UOJ9Nc6lzXobetNJ0uVu3315Bw9tLoSE+5JljwSEG29iWo9EXKdX6BA=="/>
+            <enclosure url="https://beingpax.github.io/VoiceInk/VoiceInk.dmg" length="4325722" type="application/octet-stream" sparkle:edSignature="A/w90gX4KbgwQjc/dsxqgAcSjUiDX5PNcNvL8aVNIl2WBdrWstYpexO/i9Dh45jFfao12U6Xdj8GUznv3hRuBQ=="/>
         </item>
     </channel>
 </rss>
