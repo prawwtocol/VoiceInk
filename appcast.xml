@@ -3,12 +3,17 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.15</title>
-            <pubDate>Thu, 24 Oct 2024 00:58:50 +0545</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.15</sparkle:shortVersionString>
+            <title>0.16</title>
+            <description>
+                • Added option to configure audio input/microphone access permissions
+                • Improved record view with easier-to-use mini recorder
+                • Optimized resource usage - app now only uses CPU/RAM when actively transcribing
+            </description>
+            <pubDate>Sat, 26 Oct 2024 10:44:55 +0545</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.15/VoiceInk.dmg" length="4430287" type="application/octet-stream" sparkle:edSignature="cWGAzP9DtxI5RqSixaXB7OAGC5AumSPpgZnBe6lm9VJ509yewsk9jFAiPnVjYB5pJ/PWZpVBJTZRnQbuAfh+Dw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.16/VoiceInk.dmg" length="4416126" type="application/octet-stream" sparkle:edSignature="qCjeS1JAUbxBjhrPIxlQmQNbhL8K2LP0LFlQ1ytKlVW20mMC381VjnOA6MLpd4MyOCD5qdSxCQqbggJeKDEvBQ=="/>
         </item>
     </channel>
 </rss>
