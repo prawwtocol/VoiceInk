@@ -4,13 +4,17 @@
         <title>VoiceInk</title>
         <item>
             <title>0.17</title>
-             <description>
-                • Fixed audio permissions not working properly
-            <pubDate>Sun, 27 Oct 2024 07:37:28 +0545</pubDate>
+            <description><![CDATA[
+                <h2>Bug Fixes</h2>
+                <ul>
+                    <li>Fixed audio permissions not working and app termination errors</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 27 Oct 2024 08:22:36 +0545</pubDate>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.17/VoiceInk.dmg" length="4416190" type="application/octet-stream" sparkle:edSignature="FGw2h4O/SCPirk9ym9Ou1Qd4z9Jc8asYKS36hIH3HyQmjq90eQ65ggO55AHd7pKgjSpzSzFCCgwxmikCwP2cBA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.17/VoiceInk.dmg" length="4417499" type="application/octet-stream" sparkle:edSignature="ZCdV0qYKhebUMBAGLm+uh3TvIwRamgZHziTr4lA3zRrl0GgLU9Mv1pZDUiBzEc4UayfEcrwidKhPJLWEzsWvDw=="/>
         </item>
     </channel>
 </rss>
