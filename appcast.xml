@@ -5,8 +5,8 @@
         <item>
             <title>0.22</title>
             <pubDate>Tue, 12 Nov 2024 22:17:16 +0545</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.23</sparkle:shortVersionString>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.22/VoiceInk.dmg" length="4464350" type="application/octet-stream" sparkle:edSignature="VJjRL/mOQkvJRa+NcsBKpBrTGmWgJukWExYhhKH3XRPK6e47wRiBDOmyP1pZBbHjPtNYJx00v5/wYt+x4+79AQ=="/>
         </item>
