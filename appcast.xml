@@ -1,21 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>VoiceInk Updates</title>
-        <description>New Updates</description>
-        <language>en</language>
+        <title>VoiceInk</title>
         <item>
-            <title>Version 0.21</title>
-            <description><![CDATA[
-                <h2>Version 0.21</h2>
-                <ul>
-                    <li>Fixed language auto-detection bug when a particular language was already selected</li>
-                    <li>Removed translation to English option</li>
-                    <li>Fixed visualizer not working in the recording view</li>
-                    
-                </ul>
-            ]]></description>
-            <pubDate>Tue, 12 Nov 2024 19:35:21 +0545</pubDate>
+            <title>0.21</title>
+            <pubDate>Tue, 12 Nov 2024 21:19:41 +0545</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg" length="4461621" type="application/octet-stream" sparkle:edSignature="G2kd7bdA3AaAlI+h2Cog7xJvk4ZvRic0i8WL3GoFn/ze26q4gsuBlFtRUEJFLmYXDEgWTxxqLsdhdVyGsfQaCw=="/>
         </item>
     </channel>
