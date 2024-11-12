@@ -3,21 +3,21 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.18</title>
+            <title>0.20</title>
+            <pubDate>Tue, 12 Nov 2024 10:47:52 +0545</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>Improvements and Bug Fixes:</h2>
                 <ul>
-                    <li>Fixed space appearing at the beginning of transcript</li>
+                    <li>Fixed app terminating when closing the app window</li>
+                    <li>Fixed loading model and use resources only when required</li>
+                    <li>Improved the design & styling of settingsview to make it cleaner</li>
+                    <li>Fixed global shortcut key not registering</li>
+                    <li>Improved the transcription speed by preloading model when recording starts</li>
                 </ul>
             ]]></description>
-            <pubDate>Fri, 08 Nov 2024 12:57:56 +0545</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.18/VoiceInk.dmg" 
-                      length="4417500" 
-                      type="application/octet-stream" 
-                      sparkle:edSignature="urn99YQmqbKkzHBl5pTRhXOpTlFn/EOwxtUjucBudxI/aRm/eY8kjpgaLDuPzJUvxDrYANEpv10CBicTa1vjAw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.20/VoiceInk.dmg" length="4448714" type="application/octet-stream" sparkle:edSignature="e7cekJtvGoIH+LlagGJ7yIH2MbJIuuvrobBOGNO+ZvT3trvg2TRlr3tJ7HBm1Sr4j39DXTfUvWXvX4liasbOCA=="/>
         </item>
     </channel>
 </rss>
