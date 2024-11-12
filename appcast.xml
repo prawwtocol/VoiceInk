@@ -18,8 +18,8 @@
             <pubDate>Tue, 12 Nov 2024 19:35:21 +0545</pubDate>
             <enclosure
                 url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg"
-                sparkle:version="21"
-                sparkle:shortVersionString="0.21"
+                sparkle:version="20"
+                sparkle:shortVersionString="0.20"
                 sparkle:minimumSystemVersion="14.0"
                 length="4462787"
                 type="application/octet-stream"
