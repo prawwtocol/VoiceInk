@@ -16,15 +16,7 @@
                 </ul>
             ]]></description>
             <pubDate>Tue, 12 Nov 2024 19:35:21 +0545</pubDate>
-            <enclosure
-                url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg"
-                sparkle:version="21"
-                sparkle:shortVersionString="0.21"
-                sparkle:minimumSystemVersion="14.0"
-                length="4462787"
-                type="application/octet-stream"
-                sparkle:edSignature="B/mE2MSiKm/R7D+25vPvUQ4oLOqrU+AtiNhAY3iKuVGQBdIekdGUp2lAE46sHIIn5hmp2ua3u5zDAUiS2ArUBg=="
-            />
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg" length="4461621" type="application/octet-stream" sparkle:edSignature="G2kd7bdA3AaAlI+h2Cog7xJvk4ZvRic0i8WL3GoFn/ze26q4gsuBlFtRUEJFLmYXDEgWTxxqLsdhdVyGsfQaCw=="/>
         </item>
     </channel>
 </rss>
