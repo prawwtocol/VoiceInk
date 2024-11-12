@@ -1,29 +1,30 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>VoiceInk</title>
+        <title>VoiceInk Updates</title>
+        <description>New Updates</description>
+        <language>en</language>
         <item>
             <title>Version 0.21</title>
+            <description><![CDATA[
+                <h2>Version 0.21</h2>
+                <ul>
+                    <li>Fixed language auto-detection bug when a particular language is already selected</li>
+                    <li>Removed translation to English option</li>
+                    <li>Fixed visualizer not working in the recording view</li>
+                    <li>Fixed code related to updating the app</li>
+                </ul>
+            ]]></description>
             <pubDate>Tue, 12 Nov 2024 19:35:21 +0545</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure 
-                url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg" 
-                length="4462787" 
-                type="application/octet-stream" 
+            <enclosure
+                url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg"
+                sparkle:version="21"
+                sparkle:shortVersionString="0.21"
+                sparkle:minimumSystemVersion="14.0"
+                length="4462787"
+                type="application/octet-stream"
                 sparkle:edSignature="AoTRllaXxnSGVXGOe3R4u2h6OOPn6jRNbmvuhvnh4LTqY3WyoY9l1FbKfNBGfZBF2dOVCMflqvwKsnBvNa62Bw=="
             />
-            <sparkle:releaseNotes>
-                <![CDATA[
-                <ul>
-                <li>Fixed language always auto-detecttion bug even when a particular language is already selected</li>
-                    <li>Removed translation to English option.</li>
-                    <li>Fixed visualizer not working in the recording view.</li>
-                    <li>Fixed code related to updating the app.</li>
-                </ul>
-                ]]>
-            </sparkle:releaseNotes>
         </item>
     </channel>
 </rss>
