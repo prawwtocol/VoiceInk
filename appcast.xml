@@ -9,21 +9,21 @@
             <description><![CDATA[
                 <h2>Version 0.21</h2>
                 <ul>
-                    <li>Fixed language auto-detection bug when a particular language is already selected</li>
+                    <li>Fixed language auto-detection bug when a particular language was already selected</li>
                     <li>Removed translation to English option</li>
                     <li>Fixed visualizer not working in the recording view</li>
-                    <li>Fixed code related to updating the app</li>
+                    
                 </ul>
             ]]></description>
             <pubDate>Tue, 12 Nov 2024 19:35:21 +0545</pubDate>
             <enclosure
                 url="https://github.com/Beingpax/VoiceInk/releases/download/v0.21/VoiceInk.dmg"
-                sparkle:version="20"
-                sparkle:shortVersionString="0.20"
+                sparkle:version="21"
+                sparkle:shortVersionString="0.21"
                 sparkle:minimumSystemVersion="14.0"
                 length="4462787"
                 type="application/octet-stream"
-                sparkle:edSignature="AoTRllaXxnSGVXGOe3R4u2h6OOPn6jRNbmvuhvnh4LTqY3WyoY9l1FbKfNBGfZBF2dOVCMflqvwKsnBvNa62Bw=="
+                sparkle:edSignature="B/mE2MSiKm/R7D+25vPvUQ4oLOqrU+AtiNhAY3iKuVGQBdIekdGUp2lAE46sHIIn5hmp2ua3u5zDAUiS2ArUBg=="
             />
         </item>
     </channel>
