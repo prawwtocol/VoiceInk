@@ -4,11 +4,19 @@
         <title>VoiceInk</title>
         <item>
             <title>0.25</title>
-            <pubDate>Tue, 27 Nov 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.25</sparkle:shortVersionString>
+            <pubDate>Tue, 29 Nov 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.27</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h2>VoiceInk v0.26 Release Notes</h2>
+    
+    <h3>✨ New Features</h3>
+    <ul>
+        <li>🎯 Push to Talk Feature</li>
+        <li>🤝 A direct way to purchase and get pro version of the app</li>
+    </ul>
     <h2>VoiceInk v0.25 Release Notes</h2>
     
     <h3>✨ New Features</h3>
@@ -18,7 +26,7 @@
     </ul>
     
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.25/VoiceInk.dmg" length="4644749" type="application/octet-stream" sparkle:edSignature="BGCZKuZwLGHUeuSAkTlmFTnYCaWEqCAX+x/CFZ2oAZuouwRZaj0POAxVgRsnpFlw/g6lpSSNbMJzA+UJ9b0fCQ=="/>
+           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.26/VoiceInk.dmg" length="4704388" type="application/octet-stream" sparkle:edSignature="xSfz09ctfmj/dgRQKe8sxS+DQVy1sByWDa/ZO2m6lq1cycVikikj7lqcMjurvpODU+H/mrJ5sUHGJT+m6RrmDw=="/>
         </item>
     </channel>
 </rss>
