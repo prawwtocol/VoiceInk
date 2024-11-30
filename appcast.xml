@@ -10,6 +10,13 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 
+                 <h2>VoiceInk v0.27 Release Notes</h2>
+    
+    <h3>✨ New Fixes</h3>
+    <ul>
+        <li>🎯 Rewrote the push-to-talk feature to always use the option key for holding and recording</li>
+    </ul>
+
                 <h2>VoiceInk v0.26 Release Notes</h2>
     
     <h3>✨ New Features</h3>
@@ -26,7 +33,7 @@
     </ul>
     
             ]]></description>
-           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.26/VoiceInk.dmg" length="4704388" type="application/octet-stream" sparkle:edSignature="xSfz09ctfmj/dgRQKe8sxS+DQVy1sByWDa/ZO2m6lq1cycVikikj7lqcMjurvpODU+H/mrJ5sUHGJT+m6RrmDw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.27/VoiceInk.dmg" length="4727012" type="application/octet-stream" sparkle:edSignature="atcUF6p/DGJz2N4eiBKXfdBbXvaWAWlEsExLRvtgaHFW2vLO2gbkUc/HUYn9T/5CAXSbYsItM3Z7c+JmeqluDw=="/>
         </item>
     </channel>
 </rss>
