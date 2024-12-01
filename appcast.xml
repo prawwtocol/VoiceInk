@@ -4,11 +4,21 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 30 Nov 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.27</sparkle:shortVersionString>
+            <pubDate>Tue, 1 Nov 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h2>VoiceInk v0.28 Release Notes</h2>
+    
+    <h3>✨ New Fixes</h3>
+    <ul>
+        <li>🎯 FIxed High CPU usages even when the app is idle</li>
+                 <li>🕰️ Fixed the efficiency calculator not working properly</li>
+                
+                 <li>🤝 Fixed the purchase URL not working</li>
+    </ul>
 
                  <h2>VoiceInk v0.27 Release Notes</h2>
     
@@ -33,7 +43,6 @@
     </ul>
     
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.27/VoiceInk.dmg" length="4727012" type="application/octet-stream" sparkle:edSignature="atcUF6p/DGJz2N4eiBKXfdBbXvaWAWlEsExLRvtgaHFW2vLO2gbkUc/HUYn9T/5CAXSbYsItM3Z7c+JmeqluDw=="/>
-        </item>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.28/VoiceInk.dmg" length="4771275" type="application/octet-stream" sparkle:edSignature="L/gCJTrjoiNk6dE0mUF+Dx1+CxA+XMsWSCc+soT03EKbYXbHe812HDfZqnj5qdwcQToH78hsfbaXO7SfbXfiCg=="/>
     </channel>
 </rss>
