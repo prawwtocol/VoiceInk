@@ -43,6 +43,8 @@
     </ul>
     
             ]]></description>
+            
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.28/VoiceInk.dmg" length="4771275" type="application/octet-stream" sparkle:edSignature="L/gCJTrjoiNk6dE0mUF+Dx1+CxA+XMsWSCc+soT03EKbYXbHe812HDfZqnj5qdwcQToH78hsfbaXO7SfbXfiCg=="/>
-    </channel>
+    </item>
+        </channel>
 </rss>
