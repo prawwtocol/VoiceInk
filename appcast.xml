@@ -5,10 +5,17 @@
         <item>
             <title>VoiceInk Updates</title>
             <pubDate>Tue, 1 Nov 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.28</sparkle:shortVersionString>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                 <h2>VoiceInk v0.29 Release Notes</h2>
+                <h3>✨ New Improvements</h3>
+    <ul>
+        <li>🎯 Added the option to copy transcript to clipboard</li>
+                
+    </ul>
 
                 <h2>VoiceInk v0.28 Release Notes</h2>
     
@@ -44,7 +51,7 @@
     
             ]]></description>
             
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.28/VoiceInk.dmg" length="4771275" type="application/octet-stream" sparkle:edSignature="L/gCJTrjoiNk6dE0mUF+Dx1+CxA+XMsWSCc+soT03EKbYXbHe812HDfZqnj5qdwcQToH78hsfbaXO7SfbXfiCg=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.29/VoiceInk.dmg" length="4781107" type="application/octet-stream" sparkle:edSignature="8lFCsv5iYqU2qCCO7683EEXOedTMfQl6jNtzn80MREhNbXMaWr1cx1DChMIOq0VXarFhm6q3ndTRtXu7u9hOBw=="/>
     </item>
         </channel>
 </rss>
