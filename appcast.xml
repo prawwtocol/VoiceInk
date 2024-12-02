@@ -51,7 +51,6 @@
     
             ]]></description>
             
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.29/VoiceInk.dmg" length="4781107" type="application/octet-stream" sparkle:edSignature="8lFCsv5iYqU2qCCO7683EEXOedTMfQl6jNtzn80MREhNbXMaWr1cx1DChMIOq0VXarFhm6q3ndTRtXu7u9hOBw=="/>
-    </item>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.29/VoiceInk.dmg" length="4781549" type="application/octet-stream" sparkle:edSignature="FK9L9X/5lysdp+7iiyqXcupXjWs+NIfW+aelialUJqOctcPRoCebWgPVytT79wc+PxkdcXODoN+zcphxSVkvAg=="/>
         </channel>
 </rss>
