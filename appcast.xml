@@ -10,6 +10,13 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 
+                   <h2>VoiceInk v0.31 Release Notes</h2>
+                <h3>✨ Bug Fixes</h3>
+    <ul>
+        <li>🎯 Fixed double pasting transcription with keyboard shortcut bug</li>
+                
+    </ul>
+
                  <h2>VoiceInk v0.30 Release Notes</h2>
                 <h3>✨ New Improvements</h3>
     <ul>
@@ -57,7 +64,7 @@
     </ul>
     
             ]]></description>
-           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.30/VoiceInk.dmg" length="4802102" type="application/octet-stream" sparkle:edSignature="DnRgTM2PMIXYQMsCYYi3Qw7c0CEsrlWNTCCE0tW9pNpYpmxY8u7H/5LXdwxCxh/FAqN9mkF26M7cH0lyMA+WDg=="/>
+         <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.31/VoiceInk.dmg" length="4802626" type="application/octet-stream" sparkle:edSignature="efD8hLK4FPzu/X5tLe4GmuNJ8Q3A3vOZxRzop8Pf/h2SWLlR/37xulhp8a26NE9+TCYRdE1uCjpyOgTjmq2VCg=="/>
         </item>
     </channel>
 </rss>
