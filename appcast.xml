@@ -4,11 +4,18 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 1 Nov 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.29</sparkle:shortVersionString>
+            <pubDate>Tue, 3 Nov 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                 <h2>VoiceInk v0.30 Release Notes</h2>
+                <h3>✨ New Improvements</h3>
+    <ul>
+        <li>🎯 Choose between right option key or the function key for push-to-talk feature now</li>
+                
+    </ul>
 
                  <h2>VoiceInk v0.29 Release Notes</h2>
                 <h3>✨ New Improvements</h3>
@@ -50,7 +57,7 @@
     </ul>
     
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.29/VoiceInk.dmg" length="4781549" type="application/octet-stream" sparkle:edSignature="FK9L9X/5lysdp+7iiyqXcupXjWs+NIfW+aelialUJqOctcPRoCebWgPVytT79wc+PxkdcXODoN+zcphxSVkvAg=="/>
+           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.30/VoiceInk.dmg" length="4802102" type="application/octet-stream" sparkle:edSignature="DnRgTM2PMIXYQMsCYYi3Qw7c0CEsrlWNTCCE0tW9pNpYpmxY8u7H/5LXdwxCxh/FAqN9mkF26M7cH0lyMA+WDg=="/>
         </item>
     </channel>
 </rss>
