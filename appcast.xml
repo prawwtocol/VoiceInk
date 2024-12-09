@@ -4,11 +4,18 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 3 Nov 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.31</sparkle:shortVersionString>
+            <pubDate>Tue, 9 Nov 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.32</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                   <h2>VoiceInk v0.32 Release Notes</h2>
+                <h3>✨ Improvements</h3>
+    <ul>
+        <li>🎯 Redesigned the recorder view to make it better.</li>
+                
+    </ul>
 
                    <h2>VoiceInk v0.31 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
@@ -64,7 +71,7 @@
     </ul>
     
             ]]></description>
-         <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.31/VoiceInk.dmg" length="4802626" type="application/octet-stream" sparkle:edSignature="efD8hLK4FPzu/X5tLe4GmuNJ8Q3A3vOZxRzop8Pf/h2SWLlR/37xulhp8a26NE9+TCYRdE1uCjpyOgTjmq2VCg=="/>
+         <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.32/VoiceInk.dmg" length="4803891" type="application/octet-stream" sparkle:edSignature="p6ulZv9CLppcgayWFaq4XShsvl1VcBYQrHv7HMfAdortpHKaWl5HV///bbFdU3aSLCfhvo7lqQ40jb8QDdfrCA=="/>
         </item>
     </channel>
 </rss>
