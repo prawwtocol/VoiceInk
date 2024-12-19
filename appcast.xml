@@ -4,11 +4,25 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 14 Dec 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>0.40</sparkle:shortVersionString>
+            <pubDate>Tue, 19 Dec 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h2>VoiceInk v0.45 Release Notes</h2>
+    
+    <h3>✨ New Features</h3>
+    <ul>
+        <li>🎯 Added dictionary support to improve accuracy</li>
+    </ul>
+                <h3>✨ Improvements & Bug Fixes</h3>
+    <ul>
+    <li>Removed the cloud model support added in previous version</li>
+    <li>Streamlined user interface by removing redundant whisper prompt</li>
+    <li>Added post-processing with AI for improving transcription quality</li>
+    <li>Join our Discord community for detailed discussions on what more changes were made and why</li>
+</ul>
 
                 <h2>VoiceInk v0.40 Release Notes</h2>
     
@@ -84,7 +98,7 @@
     </ul>
     
             ]]></description>
-        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.40/VoiceInk.dmg" length="5030479" type="application/octet-stream" sparkle:edSignature="Oas9nC+busATC2hsS66ayGf2NTEiwNluzd64DKFgmyhcB9AJEO56ryebySy8mO+TSk6gd7hqGaUSUxweqUcoCA=="/>
+        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.45/VoiceInk.dmg" length="4810883" type="application/octet-stream" sparkle:edSignature="WPF3HtH02LCGUQl4By6CGhO3nZD67OTt5zC/Qlkx+MEhuR/VBcAH4BQxPfsAhfok2tqFtUpa1O+OkK4uS/++CA=="/>
         </item>
     </channel>
 </rss>
