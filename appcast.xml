@@ -4,11 +4,19 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 19 Dec 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>0.45</sparkle:shortVersionString>
+            <pubDate>Tue, 20 Dec 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+
+                  <h2>VoiceInk v0.47 Release Notes</h2>
+    
+    <h3>✨ New Features </h3>
+    <ul>
+        <li>🎯 Added example support for AI enhancement for better transcript results.</li>
+    </ul>
 
                 <h2>VoiceInk v0.45 Release Notes</h2>
     
@@ -98,7 +106,7 @@
     </ul>
     
             ]]></description>
-        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.45/VoiceInk.dmg" length="4810883" type="application/octet-stream" sparkle:edSignature="WPF3HtH02LCGUQl4By6CGhO3nZD67OTt5zC/Qlkx+MEhuR/VBcAH4BQxPfsAhfok2tqFtUpa1O+OkK4uS/++CA=="/>
+        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.47/VoiceInk.dmg" length="4877025" type="application/octet-stream" sparkle:edSignature="CRYRsmkRbbJz5WQskWYD7V1zHO7B6Dd6HU4qUFn3FZh1UCYkTPeMbA+BevXAuNqlCmNa6u9j/v0wSu9Zi+wGCw=="/>
         </item>
     </channel>
 </rss>
