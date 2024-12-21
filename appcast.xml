@@ -4,11 +4,19 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 20 Dec 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>0.47</sparkle:shortVersionString>
+            <pubDate>Tue, 21 Dec 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>0.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h2>VoiceInk v0.48 Release Notes</h2>
+    
+    <h3>✨ New Features </h3>
+    <ul>
+        <li>🎯 Added Voice Assistant Feature(Start with Hey VoiceInk, ....... with AI enhancement enabled) .</li>
+        <li>🎯 Added the option to toggle AI enhancement from the menu bar</li>
+    </ul>
 
 
                   <h2>VoiceInk v0.47 Release Notes</h2>
@@ -106,7 +114,7 @@
     </ul>
     
             ]]></description>
-        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.47/VoiceInk.dmg" length="4877025" type="application/octet-stream" sparkle:edSignature="CRYRsmkRbbJz5WQskWYD7V1zHO7B6Dd6HU4qUFn3FZh1UCYkTPeMbA+BevXAuNqlCmNa6u9j/v0wSu9Zi+wGCw=="/>
+        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.48/VoiceInk.dmg" length="4878399" type="application/octet-stream" sparkle:edSignature="33hNwaSbHhr/nTSe5qcCSr/8tVTIZAs3nHhu+kji/Iyp4TTvh6sJFe+sKYAECaO2iiBrGtiudNo2vhr4aGPLDQ=="/>
         </item>
     </channel>
 </rss>
