@@ -14,12 +14,12 @@
     
     <h3>✨ New Features </h3>
     <ul>
-        <li>🎯 Added suppport for showing both original as well as enhanced transcript in Transcript history View .</li>
+        <li>🎯 Added suppport for showing both original as well as enhanced transcript in Transcript History View</li>
         
     </ul>
                 <h3>✨ New Fixes </h3>
     <ul>
-        <li>🎯 Support for ESC to to cancel the transcription even when processing</li>
+        <li>🎯 ESC button can now cancel the transcription even when processing</li>
         
     </ul>
 
