@@ -10,6 +10,25 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 
+                 <h2>VoiceInk v0.50 Release Notes</h2>
+    
+    <h3>✨ New Features </h3>
+    <ul>
+        <li>🎯 Added suppport for showing both original as well as enhanced transcript in Transcript history View .</li>
+        
+    </ul>
+                <h3>✨ New Fixes </h3>
+    <ul>
+        <li>🎯 Support for ESC to to cancel the transcription even when processing</li>
+        
+    </ul>
+
+                            <h3>✨ Changes to the Pro Plan </h3>
+    <ul>
+        <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan. </li>
+        
+    </ul>
+
                 <h2>VoiceInk v0.48 Release Notes</h2>
     
     <h3>✨ New Features </h3>
@@ -114,7 +133,7 @@
     </ul>
     
             ]]></description>
-        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.48/VoiceInk.dmg" length="4878399" type="application/octet-stream" sparkle:edSignature="33hNwaSbHhr/nTSe5qcCSr/8tVTIZAs3nHhu+kji/Iyp4TTvh6sJFe+sKYAECaO2iiBrGtiudNo2vhr4aGPLDQ=="/>
+        <enclosure url="https://beingpax.github.io/VoiceInk/VoiceInk.dmg" length="4868659" type="application/octet-stream" sparkle:edSignature="FNeVa2uO7rsPmrcbZufyYf9qRmel3ZM5BY3GEJlfZS1pdT/ZodqR+YITEjcAyzRj9b519sm6pEfPRJpDqP1aDw=="/>
         </item>
     </channel>
 </rss>
