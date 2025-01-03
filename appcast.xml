@@ -4,11 +4,26 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 23 Dec 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>0.50</sparkle:shortVersionString>
+            <pubDate>Tue, 3 Jan 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>0.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                 <h2>VoiceInk v0.51 Release Notes</h2>
+    
+    <h3>✨ New Features </h3>
+    <ul>
+        <li>🎯 AI enhancement now supports clipboard context</li>
+        
+    </ul>
+                <h3>✨ New Improvements </h3>
+    <ul>
+        <li>🎯 Batch delete transcripts from Transcript History View</li>
+        <li>🎯 Improvements in AI Enhancement feature</li>
+
+        
+    </ul>
 
                  <h2>VoiceInk v0.50 Release Notes</h2>
     
@@ -133,7 +148,7 @@
     </ul>
     
             ]]></description>
-        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.50/VoiceInk.dmg" length="4868659" type="application/octet-stream" sparkle:edSignature="FNeVa2uO7rsPmrcbZufyYf9qRmel3ZM5BY3GEJlfZS1pdT/ZodqR+YITEjcAyzRj9b519sm6pEfPRJpDqP1aDw=="/>
+        <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.51/VoiceInk.dmg" length="6368044" type="application/octet-stream" sparkle:edSignature="asL2ZdMt3H5Vh0alx4/rWf5ZO7PGPjy2bbM4I24Sh/3OulChnYjubTF9j5z4Xh/DqtRiQlqr/B9Xd8qrszorAw=="/>
         </item>
     </channel>
 </rss>
