@@ -10,6 +10,15 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 
+                <h2>VoiceInk v0.52 Release Notes</h2>
+    <h3>✨ New Features </h3>
+    <ul>
+        <li>🎯 Added Support for AI enhancement Custom Prompt</li>
+    </ul>
+                <h3>✨ New Improvements </h3>
+    <ul>
+        <li>🎯 Simplified the Examples UI</li>
+
                  <h2>VoiceInk v0.51 Release Notes</h2>
     
     <h3>✨ New Features </h3>
@@ -152,7 +161,7 @@
     </ul>
     
             ]]></description>
-<enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.51/VoiceInk.dmg" length="6380308" type="application/octet-stream" sparkle:edSignature="len9fvKaLunzJDyWTloOn1I5LQnl0SQozHnOwzVlOnE6K60sCGA+ogWce/c9kSttKINUeP/89vF056bUM4D8Aw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/tag/v0.52" length="6375455" type="application/octet-stream" sparkle:edSignature="Je6FiKklmj2xwN+1SnFzg7RJvvjBfFV/Wxxf61/OvUv1WyhfPUGvyOQ9SHbAuKuIUt0JWQ8BEjlQ2CPa2UxzBQ=="/>
         </item>
     </channel>
 </rss>
