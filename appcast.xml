@@ -137,7 +137,6 @@
                     <li>🤝 Discord Community Integration: Give feature requests as well as get support</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/tag/v0.52" length="6375455" type="application/octet-stream" sparkle:edSignature="Je6FiKklmj2xwN+1SnFzg7RJvvjBfFV/Wxxf61/OvUv1WyhfPUGvyOQ9SHbAuKuIUt0JWQ8BEjlQ2CPa2UxzBQ=="/>
-        </item>
+                <enclosure url="https://beingpax.github.io/VoiceInk/VoiceInk.dmg" length="6375455" type="application/octet-stream" sparkle:edSignature="Je6FiKklmj2xwN+1SnFzg7RJvvjBfFV/Wxxf61/OvUv1WyhfPUGvyOQ9SHbAuKuIUt0JWQ8BEjlQ2CPa2UxzBQ=="/>        </item>
     </channel>
 </rss>
