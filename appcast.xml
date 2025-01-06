@@ -5,14 +5,15 @@
         <item>
             <title>VoiceInk Updates</title>
             <pubDate>Tue, 6 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>0.52</sparkle:shortVersionString>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>0.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <h2>VoiceInk v0.53 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
                 <ul>
                     <li>🎯 Fixed trial not working</li>
+                 <li>🎯 Improved Licence handling</li>
                 </ul>
                 
                 <h2>VoiceInk v0.52 Release Notes</h2>
@@ -54,7 +55,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.53/VoiceInk.dmg" length="6387456" type="application/octet-stream" sparkle:edSignature="J5BQvl9cJaw7ZesShtLpt7SHqCUuKWFnO8C4njQ2mXmKhg72toJ4/t2E/E8NINmLZf2zVG3rzx/MiuTjQnldBA=="/>
+                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.53/VoiceInk.dmg" length="6379103" type="application/octet-stream" sparkle:edSignature="uojyUu0DZJPH1D3GrSvW5q8Njubm62AF31u5LEyzJUeC2/d0HXImI5wXpL0c5k822PSbdYnExzOudHJHlzlvCw=="/>
         </item>    
     </channel>
 </rss>
