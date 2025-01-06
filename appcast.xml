@@ -4,11 +4,19 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 4 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>52</sparkle:version>
-            <sparkle:shortVersionString>0.52</sparkle:shortVersionString>
+            <pubDate>Tue, 6 Jan 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>53</sparkle:version>
+            <sparkle:shortVersionString>0.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+
+                <h2>VoiceInk v0.53 Release Notes</h2>
+                <h3>✨ Bug Fixes</h3>
+                <ul>
+                    <li>🎯 Fixed trial not working</li>
+                </ul>
+                
                 <h2>VoiceInk v0.52 Release Notes</h2>
                 <h3>✨ New Features</h3>
                 <ul>
@@ -137,5 +145,5 @@
                     <li>🤝 Discord Community Integration: Give feature requests as well as get support</li>
                 </ul>
             ]]></description>
-                <enclosure url="https://beingpax.github.io/VoiceInk/VoiceInk.dmg" length="6387456" type="application/octet-stream" sparkle:edSignature="J5BQvl9cJaw7ZesShtLpt7SHqCUuKWFnO8C4njQ2mXmKhg72toJ4/t2E/E8NINmLZf2zVG3rzx/MiuTjQnldBA=="/>    </channel>
+                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.53/VoiceInk.dmg" length="6387456" type="application/octet-stream" sparkle:edSignature="J5BQvl9cJaw7ZesShtLpt7SHqCUuKWFnO8C4njQ2mXmKhg72toJ4/t2E/E8NINmLZf2zVG3rzx/MiuTjQnldBA=="/>    </channel>
 </rss>
