@@ -9,8 +9,6 @@
             <sparkle:shortVersionString>0.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-
-
                 <h2>VoiceInk v0.53 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
                 <ul>
@@ -55,95 +53,8 @@
                 <ul>
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
-
-                <h2>VoiceInk v0.48 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Added Voice Assistant Feature(Start with Hey VoiceInk, ....... with AI enhancement enabled)</li>
-                    <li>🎯 Added the option to toggle AI enhancement from the menu bar</li>
-                </ul>
-
-                <h2>VoiceInk v0.47 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Added example support for AI enhancement for better transcript results.</li>
-                </ul>
-
-                <h2>VoiceInk v0.45 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Added dictionary support to improve accuracy</li>
-                </ul>
-                <h3>✨ Improvements & Bug Fixes</h3>
-                <ul>
-                    <li>Removed the cloud model support added in previous version</li>
-                    <li>Streamlined user interface by removing redundant whisper prompt</li>
-                    <li>Added post-processing with AI for improving transcription quality</li>
-                    <li>Join our Discord community for detailed discussions on what more changes were made and why</li>
-                </ul>
-
-                <h2>VoiceInk v0.40 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Added Cloud Model Support with free Groq API keys(gives you much better result with transcription processing using LLMs)</li>
-                </ul>
-                <h3>✨ Improvements</h3>
-                <ul>
-                    <li>🎯 Made improvements to recorder view.</li>
-                    <li>🎯 Made it easy to switch between push-to-talk keys.</li>
-                </ul>
-
-                <h2>VoiceInk v0.32 Release Notes</h2>
-                <h3>✨ Improvements</h3>
-                <ul>
-                    <li>🎯 Redesigned the recorder view to make it better.</li>
-                </ul>
-
-                <h2>VoiceInk v0.31 Release Notes</h2>
-                <h3>✨ Bug Fixes</h3>
-                <ul>
-                    <li>🎯 Fixed double pasting transcription with keyboard shortcut bug</li>
-                </ul>
-
-                <h2>VoiceInk v0.30 Release Notes</h2>
-                <h3>✨ New Improvements</h3>
-                <ul>
-                    <li>🎯 Choose between right option key or the function key for push-to-talk feature now</li>
-                </ul>
-
-                <h2>VoiceInk v0.29 Release Notes</h2>
-                <h3>✨ New Improvements</h3>
-                <ul>
-                    <li>🎯 Added the option to copy transcript to clipboard</li>
-                </ul>
-
-                <h2>VoiceInk v0.28 Release Notes</h2>
-                <h3>✨ New Fixes</h3>
-                <ul>
-                    <li>🎯 FIxed High CPU usages even when the app is idle</li>
-                    <li>🕰️ Fixed the efficiency calculator not working properly</li>
-                    <li>🤝 Fixed the purchase URL not working</li>
-                </ul>
-
-                <h2>VoiceInk v0.27 Release Notes</h2>
-                <h3>✨ New Fixes</h3>
-                <ul>
-                    <li>🎯 Rewrote the push-to-talk feature to always use the right option key for easier access</li>
-                </ul>
-
-                <h2>VoiceInk v0.26 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Push to Talk Feature</li>
-                    <li>🤝 A direct way to purchase and get pro version of the app</li>
-                </ul>
-
-                <h2>VoiceInk v0.25 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Initial Prompt Support: Enhance output quality with refined input prompts</li>
-                    <li>🤝 Discord Community Integration: Give feature requests as well as get support</li>
-                </ul>
             ]]></description>
-             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.53/VoiceInk.dmg" length="6387456" type="application/octet-stream" sparkle:edSignature="J5BQvl9cJaw7ZesShtLpt7SHqCUuKWFnO8C4njQ2mXmKhg72toJ4/t2E/E8NINmLZf2zVG3rzx/MiuTjQnldBA=="/>    </channel>
+             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.53/VoiceInk.dmg" length="6387456" type="application/octet-stream" sparkle:edSignature="J5BQvl9cJaw7ZesShtLpt7SHqCUuKWFnO8C4njQ2mXmKhg72toJ4/t2E/E8NINmLZf2zVG3rzx/MiuTjQnldBA=="/>
+        </item>    
+    </channel>
 </rss>
