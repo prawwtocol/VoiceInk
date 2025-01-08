@@ -4,11 +4,17 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 6 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>53</sparkle:version>
-            <sparkle:shortVersionString>0.53</sparkle:shortVersionString>
+            <pubDate>Tue, 8 Jan 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.54</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                <h2>VoiceInk v0.54 Release Notes</h2>
+                <h3>✨ Bug Fixes & Improvements</h3>
+                <ul>
+                    <li>🎯 Fixed Copy to clipboard not persisting</li>
+                 <li>🎯 Added more menu bar options for quick access to important views</li>
+                </ul>
                 <h2>VoiceInk v0.53 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
                 <ul>
@@ -55,7 +61,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.53/VoiceInk.dmg" length="6379103" type="application/octet-stream" sparkle:edSignature="uojyUu0DZJPH1D3GrSvW5q8Njubm62AF31u5LEyzJUeC2/d0HXImI5wXpL0c5k822PSbdYnExzOudHJHlzlvCw=="/>
+                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.54/VoiceInk.dmg" length="6386090" type="application/octet-stream" sparkle:edSignature="z8ieRwYRk0wniOXYq/zMJ3LgZPCLcdGb22aAFN7zdqc4kGoD0vBSY+5WgD4A2otXczSlVR1gBwNvJikt9joPAg=="/>
         </item>    
     </channel>
 </rss>
