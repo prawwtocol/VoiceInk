@@ -4,11 +4,16 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 8 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>0.54</sparkle:shortVersionString>
+            <pubDate>Tue, 9 Jan 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>0.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                <h2>VoiceInk v0.55 Release Notes</h2>
+                <h3>✨ New Features</h3>
+                <ul>
+                    <li>🎯 Notch Recorder View with better controls</li>
+                </ul>
                 <h2>VoiceInk v0.54 Release Notes</h2>
                 <h3>✨ Bug Fixes & Improvements</h3>
                 <ul>
@@ -62,7 +67,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.54/VoiceInk.dmg" length="6386090" type="application/octet-stream" sparkle:edSignature="z8ieRwYRk0wniOXYq/zMJ3LgZPCLcdGb22aAFN7zdqc4kGoD0vBSY+5WgD4A2otXczSlVR1gBwNvJikt9joPAg=="/>
+                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.55/VoiceInk.dmg" length="6482423" type="application/octet-stream" sparkle:edSignature="AVEtyipEWHk/lgx7jlcMwQAWHTQ4TZJo6kJ260dfTqksAqYLZZoZ4VYgBA7VpBQxeTyVMTbIH8zI0XVvjpBmBQ=="/>
         </item>    
     </channel>
 </rss>
