@@ -9,6 +9,11 @@
             <sparkle:shortVersionString>0.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                 <h2>VoiceInk v0.56 Release Notes</h2>
+                <h3>✨ Bug Fixes</h3>
+                <ul>
+                    <li>🎯 Fixed auto-paste not working with notch recorder</li>
+                </ul>
                 <h2>VoiceInk v0.55 Release Notes</h2>
                 <h3>✨ New Features</h3>
                 <ul>
@@ -67,7 +72,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.55/VoiceInk.dmg" length="6482423" type="application/octet-stream" sparkle:edSignature="AVEtyipEWHk/lgx7jlcMwQAWHTQ4TZJo6kJ260dfTqksAqYLZZoZ4VYgBA7VpBQxeTyVMTbIH8zI0XVvjpBmBQ=="/>
+                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.56/VoiceInk.dmg" length="6484599" type="application/octet-stream" sparkle:edSignature="rSiI7vc/mCIOIju9bX4rK2q+GzfJmMz8+SDg1cwBTG2JlHJ+1OHRmYBmnbLw1IWm+Al7nCIsQmnkStEQ+0WZBw=="/>
         </item>    
     </channel>
 </rss>
