@@ -5,8 +5,8 @@
         <item>
             <title>VoiceInk Updates</title>
             <pubDate>Tue, 9 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>0.55</sparkle:shortVersionString>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>0.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                  <h2>VoiceInk v0.56 Release Notes</h2>
