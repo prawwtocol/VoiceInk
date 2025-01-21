@@ -5,10 +5,16 @@
         <item>
             <title>VoiceInk Updates</title>
             <pubDate>Tue, 14 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>61</sparkle:version>
-            <sparkle:shortVersionString>0.61</sparkle:shortVersionString>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>0.62</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                <h2>VoiceInk v0.62 Release Notes</h2>
+                <h3>✨ Bug Fixes</h3>
+                <ul>
+                    <li>🎯 Fixed Audio Input Device Bug(Use default Input Device/ Custom device now)</li>
+                    <li>🎯 Improvement to transcript selection UI</li>
+                    
                 <h2>VoiceInk v0.61 Release Notes</h2>
                 <h3>✨ New Updates & Fixes</h3>
                 <ul>
@@ -86,7 +92,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.61/VoiceInk.dmg" length="5179878" type="application/octet-stream" sparkle:edSignature="wI+XzuM5Q/L4aWt90dPO86fm2M9+bFliubwo2mToCad6oCYp+swsaQO+bdAkvozFzkigQFzZ1Kt5ZdtDSJVdCg=="/>
+                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.62/VoiceInk.dmg" length="5187946" type="application/octet-stream" sparkle:edSignature="FJXB9f7N3T7SDy/AS9koFn40tcwqGOytqpB2OFjVd4sJQ3RqdsIn6trZzziQ830lpFTtQ+fH0p1SSuBVaEFvDA=="/>
         </item>    
     </channel>
 </rss>
