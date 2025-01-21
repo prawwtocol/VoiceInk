@@ -14,13 +14,12 @@
                 <ul>
                     <li>🎯 Fixed Audio Input Device Bug(Use default Input Device/ Custom device now)</li>
                     <li>🎯 Improvement to transcript selection UI</li>
-                <ul>    
+                </ul>    
                 <h2>VoiceInk v0.61 Release Notes</h2>
                 <h3>✨ New Updates & Fixes</h3>
                 <ul>
                     <li>🎯 Added the option to configure Audio input sources</li>
                     <li>🎯 Fixed dashboard loading jarring bug</li>
-                    
                 </ul>
                 <h2>VoiceInk v0.60 Release Notes</h2>
                 <h3>✨ Bug Fixes & Improvements</h3>
@@ -29,7 +28,7 @@
                     <li>🎯 Huge speed & performance improvements</li>
                     <li>🎯 Removed support for intel devices</li>
                 </ul>
-                 <h2>VoiceInk v0.56 Release Notes</h2>
+                <h2>VoiceInk v0.56 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
                 <ul>
                     <li>🎯 Fixed auto-paste not working with notch recorder</li>
@@ -43,16 +42,15 @@
                 <h3>✨ Bug Fixes & Improvements</h3>
                 <ul>
                     <li>🎯 Fixed Copy to clipboard not persisting</li>
-                <li>🎯 Added option to add clipboard context for AI enhancement</li>
-                 <li>🎯 Added more menu bar options for quick access to important views</li>
+                    <li>🎯 Added option to add clipboard context for AI enhancement</li>
+                    <li>🎯 Added more menu bar options for quick access to important views</li>
                 </ul>
                 <h2>VoiceInk v0.53 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
                 <ul>
                     <li>🎯 Fixed trial not working</li>
-                 <li>🎯 Improved Licence handling</li>
+                    <li>🎯 Improved Licence handling</li>
                 </ul>
-                
                 <h2>VoiceInk v0.52 Release Notes</h2>
                 <h3>✨ New Features</h3>
                 <ul>
@@ -62,7 +60,6 @@
                 <ul>
                     <li>🎯 Simplified the Examples UI</li>
                 </ul>
-
                 <h2>VoiceInk v0.51 Release Notes</h2>
                 <h3>✨ New Features</h3>
                 <ul>
@@ -77,7 +74,6 @@
                 <ul>
                     <li>🎯 Reach out to me on discord</li>
                 </ul>
-
                 <h2>VoiceInk v0.50 Release Notes</h2>
                 <h3>✨ New Features</h3>
                 <ul>
@@ -92,7 +88,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-                <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.62/VoiceInk.dmg" length="5187946" type="application/octet-stream" sparkle:edSignature="FJXB9f7N3T7SDy/AS9koFn40tcwqGOytqpB2OFjVd4sJQ3RqdsIn6trZzziQ830lpFTtQ+fH0p1SSuBVaEFvDA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.62/VoiceInk.dmg" length="5187946" type="application/octet-stream" sparkle:edSignature="FJXB9f7N3T7SDy/AS9koFn40tcwqGOytqpB2OFjVd4sJQ3RqdsIn6trZzziQ830lpFTtQ+fH0p1SSuBVaEFvDA=="/>
         </item>    
     </channel>
 </rss>
