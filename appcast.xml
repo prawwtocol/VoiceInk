@@ -5,10 +5,18 @@
         <item>
             <title>VoiceInk Updates</title>
             <pubDate>Tue, 14 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>63</sparkle:version>
-            <sparkle:shortVersionString>0.63</sparkle:shortVersionString>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>0.64</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                <h2>VoiceInk v0.64 Release Notes</h2>
+                <h3>✨ New Features & Improvements</h3>
+                <ul>
+                    <li>🎯 Added support for DeepSeek & openAI API keys</li>
+                    <li>🎯 Fixed Keyboard shortcuts handling</li>
+                    <li>🎯 Better Transcript Enhancement View</li>
+
+                </ul>    
                 <h2>VoiceInk v0.63 Release Notes</h2>
                 <h3>✨ Bug Fixes</h3>
                 <ul>
@@ -88,7 +96,8 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.63/VoiceInk.dmg" length="5188703" type="application/octet-stream" sparkle:edSignature="KR6dH9/p3oSeFlV8AKqpUHBz78xBcI0rGa5h2Rc+bsjNTGMRplSumzw0ySgccLUBteRTDd/DpA14oTTxh79lBw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.64/VoiceInk.dmg" length="5184179" type="application/octet-stream" sparkle:edSignature="dKHK1uyAjNykRGYv17rItZ/r01wT+I1EzctTiubvXRuK2zO9p2g9DqGhvpa/8A/o6AIz3ZwsE/1kCpybRuOKDw=="/>
+
         </item>    
     </channel>
 </rss>
