@@ -8,7 +8,7 @@
             <sparkle:version>66</sparkle:version>
             <sparkle:shortVersionString>0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/tag/v0.65" length="5199386" type="application/octet-stream" sparkle:edSignature="ZzemtbykVW8AJ4m4Yqi3MDPma8rcjVbfnsHNZ3xIWjWQzA0BeDnvpTuiPdavgCaNzUTo+Hw/ZxJ+k0zLxMEIDw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.65/VoiceInk.dmg" length="5199386" type="application/octet-stream" sparkle:edSignature="ZzemtbykVW8AJ4m4Yqi3MDPma8rcjVbfnsHNZ3xIWjWQzA0BeDnvpTuiPdavgCaNzUTo+Hw/ZxJ+k0zLxMEIDw=="/>
         </item>
     </channel>
 </rss>
