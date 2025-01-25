@@ -8,6 +8,16 @@
             <sparkle:version>66</sparkle:version>
             <sparkle:shortVersionString>0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description>
+                <![CDATA[
+                <h3>What's New in This Version 🚀</h3>
+                <ul>
+                    <li>🧠 Added context-aware AI Enhancement Support</li>
+                    <li>⚙️ Consolidated All Permission Settings</li>
+                    <li>🐛 Minor Improvements & Bug Fixes</li>
+                </ul>
+                ]]>
+            </description>
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.65/VoiceInk.dmg" length="5199386" type="application/octet-stream" sparkle:edSignature="ZzemtbykVW8AJ4m4Yqi3MDPma8rcjVbfnsHNZ3xIWjWQzA0BeDnvpTuiPdavgCaNzUTo+Hw/ZxJ+k0zLxMEIDw=="/>
         </item>
     </channel>
