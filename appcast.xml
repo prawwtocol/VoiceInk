@@ -3,22 +3,12 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>Version 0.65</title>
-            <pubDate>Sat, 25 Jan 2025 12:00:27 +0545</pubDate>
-            <sparkle:version>65</sparkle:version>
+            <title>0.65</title>
+            <pubDate>Sat, 25 Jan 2025 12:23:22 +0545</pubDate>
+            <sparkle:version>66</sparkle:version>
             <sparkle:shortVersionString>0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description>
-                <![CDATA[
-                <h3>What's New in Version 0.65</h3>
-                <ul>
-                    <li>✨ Added Context-Aware AI Enhancement Support</li>
-                    <li>🔒 Consolidated All Permission Settings</li>
-                    <li>🐛 Minor Improvements & Bug Fixes</li>
-                </ul>
-                ]]>
-            </description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.65/VoiceInk.dmg" length="5198538" type="application/octet-stream" sparkle:edSignature="yk1gyeMviqN/KwFvEE8X9rsn78cYeOV0mxEiuldVdc6BkR5qnDrW+F95qIQnzuVTJcb3XMfZjgBlaDRKg7euBQ=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/tag/v0.65" length="5199386" type="application/octet-stream" sparkle:edSignature="ZzemtbykVW8AJ4m4Yqi3MDPma8rcjVbfnsHNZ3xIWjWQzA0BeDnvpTuiPdavgCaNzUTo+Hw/ZxJ+k0zLxMEIDw=="/>
         </item>
     </channel>
 </rss>
