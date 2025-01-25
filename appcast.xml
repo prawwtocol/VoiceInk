@@ -3,105 +3,21 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>VoiceInk Updates</title>
-            <pubDate>Tue, 25 Jan 2024 12:22:21 +0545</pubDate>
+            <title>Version 0.65</title>
+            <pubDate>Sat, 25 Jan 2025 12:00:27 +0545</pubDate>
             <sparkle:version>65</sparkle:version>
             <sparkle:shortVersionString>0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                 <h2>VoiceInk v0.65 Release Notes</h2>
-                <h3>✨ New Features & Improvements</h3>
+            <description>
+                <![CDATA[
+                <h3>What's New in Version 0.65</h3>
                 <ul>
-                    <li>🎯 Context Aware AI-enhancement support</li>
-                    <li>🎯 Consolidated all permissions in one View</li>
-                    <li>🎯 Minor bug fixes & Improvements</li>
-                </ul>    
-                <h2>VoiceInk v0.64 Release Notes</h2>
-                <h3>✨ New Features & Improvements</h3>
-                <ul>
-                    <li>🎯 Added support for DeepSeek & openAI API keys</li>
-                    <li>🎯 Fixed Keyboard shortcuts handling</li>
-                    <li>🎯 Better Transcript Enhancement View</li>
-                </ul>    
-                <h2>VoiceInk v0.63 Release Notes</h2>
-                <h3>✨ Bug Fixes</h3>
-                <ul>
-                    <li>🎯 Fixed Audio Input Device Bug(Use default Input Device/ Custom device now)</li>
-                    <li>🎯 Improvement to transcript selection UI</li>
-                </ul>    
-                <h2>VoiceInk v0.61 Release Notes</h2>
-                <h3>✨ New Updates & Fixes</h3>
-                <ul>
-                    <li>🎯 Added the option to configure Audio input sources</li>
-                    <li>🎯 Fixed dashboard loading jarring bug</li>
+                    <li>✨ Added Context-Aware AI Enhancement Support</li>
+                    <li>🔒 Consolidated All Permission Settings</li>
+                    <li>🐛 Minor Improvements & Bug Fixes</li>
                 </ul>
-                <h2>VoiceInk v0.60 Release Notes</h2>
-                <h3>✨ Bug Fixes & Improvements</h3>
-                <ul>
-                    <li>🎯 Fixed hallucinations errors at the end</li>
-                    <li>🎯 Huge speed & performance improvements</li>
-                    <li>🎯 Removed support for intel devices</li>
-                </ul>
-                <h2>VoiceInk v0.56 Release Notes</h2>
-                <h3>✨ Bug Fixes</h3>
-                <ul>
-                    <li>🎯 Fixed auto-paste not working with notch recorder</li>
-                </ul>
-                <h2>VoiceInk v0.55 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Notch Recorder View with better controls</li>
-                </ul>
-                <h2>VoiceInk v0.54 Release Notes</h2>
-                <h3>✨ Bug Fixes & Improvements</h3>
-                <ul>
-                    <li>🎯 Fixed Copy to clipboard not persisting</li>
-                    <li>🎯 Added option to add clipboard context for AI enhancement</li>
-                    <li>🎯 Added more menu bar options for quick access to important views</li>
-                </ul>
-                <h2>VoiceInk v0.53 Release Notes</h2>
-                <h3>✨ Bug Fixes</h3>
-                <ul>
-                    <li>🎯 Fixed trial not working</li>
-                    <li>🎯 Improved Licence handling</li>
-                </ul>
-                <h2>VoiceInk v0.52 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Added Support for AI enhancement Custom Prompt</li>
-                </ul>
-                <h3>✨ New Improvements</h3>
-                <ul>
-                    <li>🎯 Simplified the Examples UI</li>
-                </ul>
-                <h2>VoiceInk v0.51 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 AI enhancement now supports clipboard context</li>
-                </ul>
-                <h3>✨ New Improvements</h3>
-                <ul>
-                    <li>🎯 Batch delete transcripts from Transcript History View</li>
-                    <li>🎯 Improvements in AI Enhancement feature</li>
-                </ul>
-                <h3>✨ Facing Problems?</h3>
-                <ul>
-                    <li>🎯 Reach out to me on discord</li>
-                </ul>
-                <h2>VoiceInk v0.50 Release Notes</h2>
-                <h3>✨ New Features</h3>
-                <ul>
-                    <li>🎯 Added suppport for showing both original as well as enhanced transcript in Transcript History View</li>
-                </ul>
-                <h3>✨ New Fixes</h3>
-                <ul>
-                    <li>🎯 ESC button can now cancel the transcription even when processing</li>
-                </ul>
-                <h3>✨ Changes to the Pro Plan</h3>
-                <ul>
-                    <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
-                </ul>
-            ]]></description>
+                ]]>
+            </description>
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.65/VoiceInk.dmg" length="5198538" type="application/octet-stream" sparkle:edSignature="yk1gyeMviqN/KwFvEE8X9rsn78cYeOV0mxEiuldVdc6BkR5qnDrW+F95qIQnzuVTJcb3XMfZjgBlaDRKg7euBQ=="/>
         </item>
     </channel>
