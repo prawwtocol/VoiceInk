@@ -4,11 +4,18 @@
         <title>VoiceInk</title>
         <item>
             <title>VoiceInk Updates</title>
-            <pubDate>Tue, 14 Jan 2024 12:22:21 +0545</pubDate>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>0.64</sparkle:shortVersionString>
+            <pubDate>Tue, 25 Jan 2024 12:22:21 +0545</pubDate>
+            <sparkle:version>65</sparkle:version>
+            <sparkle:shortVersionString>0.65</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                 <h2>VoiceInk v0.65 Release Notes</h2>
+                <h3>✨ New Features & Improvements</h3>
+                <ul>
+                    <li>🎯 Context Aware AI-enhancement support</li>
+                    <li>🎯 Consolidated all permissions in one View</li>
+                    <li>🎯 Minor bug fixes & Improvements</li>
+                </ul>    
                 <h2>VoiceInk v0.64 Release Notes</h2>
                 <h3>✨ New Features & Improvements</h3>
                 <ul>
@@ -95,7 +102,7 @@
                     <li>🎯 VoiceInk has removed the free tier. You can keep using the existing versions for free though. All the future versions will required a paid plan.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.64/VoiceInk.dmg" length="5184179" type="application/octet-stream" sparkle:edSignature="dKHK1uyAjNykRGYv17rItZ/r01wT+I1EzctTiubvXRuK2zO9p2g9DqGhvpa/8A/o6AIz3ZwsE/1kCpybRuOKDw=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.65/VoiceInk.dmg" length="5198538" type="application/octet-stream" sparkle:edSignature="yk1gyeMviqN/KwFvEE8X9rsn78cYeOV0mxEiuldVdc6BkR5qnDrW+F95qIQnzuVTJcb3XMfZjgBlaDRKg7euBQ=="/>
 
         </item>    
     </channel>
