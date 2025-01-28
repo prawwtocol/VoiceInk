@@ -3,22 +3,22 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>v0.65 Latest</title>
-            <pubDate>Sat, 25 Jan 2025 13:41:53 +0545</pubDate>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>0.65</sparkle:shortVersionString>
+            <title>0.66</title>
+            <pubDate>Tue, 28 Jan 2025 12:14:34 +0545</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description>
-                <![CDATA[
-                    <h2>What's New in v0.65 🚀</h2>
-                    <ul>
-                        <li>🤖 Added context-aware AI Enhancement Support</li>
-                        <li>🔐 Consolidated All Permission Settings</li>
-                        <li>🐛 Minor Improvements & Bug Fixes</li>
-                    </ul>
-                ]]>
-            </description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.65/VoiceInk.dmg" length="5205128" type="application/octet-stream" sparkle:edSignature="/+rMgZB1FqcU19ZDu0dQSKD2umr3Gijs2t3C+gL674FhA45vDgRQXdtuJcuYaqhRlEfPQxdll3fiU9VtsmbvCQ=="/>
+            <description><![CDATA[
+                <h3>New Features and Improvements:</h3>
+                <ul>
+                    <li>📝 <strong>Added support for multiple custom prompts</strong> - Now you can create and manage multiple custom prompts.</li>
+                    <li>🎚️ <strong>Toggle/Change custom prompts from Notch Recorder Panel</strong> - Easily toggle/ switch between custom prompts directly from the Notch Recorder Panel.</li>
+                    <li>🚫 <strong>ESC key works globally to cancel recordingView</strong> - Press the ESC key anytime to cancel the recording view, no matter what app you are using.</li>
+                    <li>🧠 <strong>Improved AI transcription with Context Awareness</strong> - Enhanced transcription accuracy with better context understanding.</li>
+                    <li>🐞 <strong>Minor Improvements & other bug fixes</strong> - General stability improvements and bug fixes for a smoother experience.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.66/VoiceInk.dmg" length="5263787" type="application/octet-stream" sparkle:edSignature="WvZ64nz7OuDzbZwcdZg05Flayx7gyTWeh12EISLY6D/07wje4PlhFjpLxCX8PmVaMokclk1zuV1MyxmeFFdJCA=="/>
         </item>
     </channel>
 </rss>
