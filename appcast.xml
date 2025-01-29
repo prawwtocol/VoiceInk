@@ -1,7 +1,4 @@
-What's new in v0.67
-- 🔧 Fixed Hey Assistant feature to be more reliable
-- ⬆️ Using gpt-4o-mini for OpenAI Integration
-- 🚫 Better handling of API limits and errors<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>VoiceInk</title>
