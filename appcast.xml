@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's new in v0.65</h3>
+                <h3>What's new in v0.67</h3>
                 <ul>
                     <li>🔧 <strong>Fixed Hey Assistant feature to be more reliable</strong> </li>
                     <li>⬆️ <strong>Using gpt-4o-mini for OpenAI Integration</strong> </li>
