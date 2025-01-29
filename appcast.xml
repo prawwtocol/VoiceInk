@@ -1,4 +1,7 @@
-<?xml version="1.0" standalone="yes"?>
+What's new in v0.67
+- 🔧 Fixed Hey Assistant feature to be more reliable
+- ⬆️ Using gpt-4o-mini for OpenAI Integration
+- 🚫 Better handling of API limits and errors<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>VoiceInk</title>
@@ -9,20 +12,20 @@
             <sparkle:shortVersionString>0.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's new in v0.67</h3>
-                <ul>
-                    <li>🔧 <strong>Fixed Hey Assistant feature to be more reliable</strong> </li>
-                    <li>⬆️ <strong>Using gpt-4o-mini for OpenAI Integration</strong> </li>
-                    <li>🚫 <strong>Better handling of API limits and errors</strong> </li>
-                </ul>
-                <h3>What's new in v0.66</h3>
-                <ul>
-                    <li>📝 <strong>Added support for multiple custom prompts</strong> </li>
-                    <li>🎚️ <strong>Toggle/Change custom prompts from Notch Recorder Panel</strong> </li>
-                    <li>🚫 <strong>ESC key works globally to cancel recording </strong> </li>
-                    <li>🧠 <strong>Improved AI transcription with Context Awareness</strong> </li>
-                    <li>🐞 <strong>Minor Improvements & other bug fixes</strong> </li>
-                </ul>
+            <h3>What's new in v0.67</h3>
+            <ul>
+                <li>🔧 Fixed Hey Assistant feature to be more reliable</li>
+                <li>⬆️ Using gpt-4o-mini for OpenAI Integration</li>
+                <li>🚫 Better handling of API limits and errors</li>
+            </ul>
+            <h3>What's new in v0.66</h3>
+            <ul>
+                <li>📝 Added support for multiple custom prompts</li>
+                <li>🎚️ Toggle/Change custom prompts from Notch Recorder Panel</li>
+                <li>🚫 ESC key works globally to cancel recording</li>
+                <li>🧠 Improved AI transcription with Context Awareness</li>
+                <li>🐞 Minor Improvements & other bug fixes</li>
+            </ul>
             ]]></description>
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.67/VoiceInk.dmg" length="5262960" type="application/octet-stream" sparkle:edSignature="21ia8+U3RO+nOboVeMabOIlbl/h/H4ivbo0RsrlS2rKdiz4x3wZBZAgk0DV0V6ugKevAr5WxlE4I7/0iwqxpDw=="/>
         </item>
