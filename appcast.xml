@@ -3,13 +3,19 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.66</title>
+            <title>0.67</title>
             <pubDate>Tue, 28 Jan 2025 12:14:34 +0545</pubDate>
-            <sparkle:version>66</sparkle:version>
+            <sparkle:version>67</sparkle:version>
             <sparkle:shortVersionString>0.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>New Features and Improvements:</h3>
+                <h3>What's new in v0.65</h3>
+                <ul>
+                    <li>🔧 <strong>Fixed Hey Assistant feature to be more reliable</strong> </li>
+                    <li>⬆️ <strong>Using gpt-4o-mini for OpenAI Integration</strong> </li>
+                    <li>🚫 <strong>Better handling of API limits and errors</strong> </li>
+                </ul>
+                <h3>What's new in v0.66</h3>
                 <ul>
                     <li>📝 <strong>Added support for multiple custom prompts</strong> </li>
                     <li>🎚️ <strong>Toggle/Change custom prompts from Notch Recorder Panel</strong> </li>
@@ -18,7 +24,7 @@
                     <li>🐞 <strong>Minor Improvements & other bug fixes</strong> </li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.66/VoiceInk.dmg" length="5263787" type="application/octet-stream" sparkle:edSignature="WvZ64nz7OuDzbZwcdZg05Flayx7gyTWeh12EISLY6D/07wje4PlhFjpLxCX8PmVaMokclk1zuV1MyxmeFFdJCA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.67/VoiceInk.dmg" length="5262960" type="application/octet-stream" sparkle:edSignature="21ia8+U3RO+nOboVeMabOIlbl/h/H4ivbo0RsrlS2rKdiz4x3wZBZAgk0DV0V6ugKevAr5WxlE4I7/0iwqxpDw=="/>
         </item>
     </channel>
 </rss>
