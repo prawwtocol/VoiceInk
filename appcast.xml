@@ -3,20 +3,19 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.70</title>
-            <pubDate>Thu, 1 Feb 2025 13:51:55 +0545</pubDate>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>0.70</sparkle:shortVersionString>
+            <title>0.71</title>
+            <pubDate>Thu, 2 Feb 2025 13:51:55 +0545</pubDate>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>0.71</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's New in Version 0.70 🚀</h3>
+                <h3>What's New in Version 0.71 🚀</h3>
                 <ul>
-                    <li>Added support for custom AI provider(openAI compatible).</li>
-                    <li>Lazy loading in transcript history view to improve performance.</li>
-                    <li>Made menu bar navigation links better.</li>
+                    <li>Fixed Notch not appearing for external monitors</li>
+                    <li>Fixed issue with Audio Input device changing the default settings(now, it will only affect the input for the VoiceInk app)</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.70/VoiceInk.dmg" length="5356613" type="application/octet-stream" sparkle:edSignature="wgS9Q8NFNJstJMYv0sleuCIixd1uE/tjaiKgCTSJsd0DuXp3saPTt3f6lcSjqPTtAhtCljMt0ll1yxc0nJFHAA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.71/VoiceInk.dmg" length="5357077" type="application/octet-stream" sparkle:edSignature="tjMVO77GW8zLL/NbRxvkIyEjAqKul34qlXjyzzV2TQoOxMFOBvVlcv2LtGlz0D7eAdxvaC88R/IHHnvRGXnBBA=="/>
         </item>
     </channel>
 </rss>
