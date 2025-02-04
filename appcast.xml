@@ -3,19 +3,22 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.72</title>
-            <pubDate>Thu, 3 Feb 2025 13:51:55 +0545</pubDate>
-            <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>0.72</sparkle:shortVersionString>
+            <title>0.73</title>
+            <pubDate>Thu, 4 Feb 2025 05:51:55 +0545</pubDate>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>0.73</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's New in Version 0.72 🚀</h3>
+                <h3>What's New in Version 0.73 🚀</h3>
                 <ul>
-                    <li>Add Priority order for input devices</li>
-                    <li>Fixed recording related bugs</li>
+                    <li>Added words/phrases replacement features using AI enhancement</li>
+                    <li>Redesigned the dictionary view to be on the sidebar</li>
+                    <li>Fixed high ram usage even when app is idle(now will eat ~100Mb during idle state)</li>
+                    <li>Made the transcription pasting faster & more responsive</li>
+                
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.72/VoiceInk.dmg" length="5375085" type="application/octet-stream" sparkle:edSignature="aGNzkyPt0cpOEcgmfROWFhRVimdQo2FQ3Whv8kEvgIRGEUbMKr0QyvSWIbWNdWsKPpBNyq4kmO6tMG3g3OGKAg=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.73/VoiceInk.dmg" length="5407560" type="application/octet-stream" sparkle:edSignature="BvCugOapZjpAdN73mrt/f2HE4Sz8zIqHOmxwH8L0mvOmQFQQr/062/cCGsJq6UmUJMiVy/VZ5qMftZLKkQExCg=="/>
         </item>
     </channel>
 </rss>
