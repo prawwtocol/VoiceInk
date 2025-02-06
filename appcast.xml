@@ -3,22 +3,23 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.73</title>
-            <pubDate>Thu, 4 Feb 2025 05:51:55 +0545</pubDate>
-            <sparkle:version>73</sparkle:version>
-            <sparkle:shortVersionString>0.73</sparkle:shortVersionString>
+            <title>0.74</title>
+            <pubDate>Thu, 6 Feb 2025 05:51:55 +0545</pubDate>
+            <sparkle:version>74</sparkle:version>
+            <sparkle:shortVersionString>0.74</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h3>What's New in Version 0.73 🚀</h3>
+                <h3>What's New in Version 0.74 🚀⚡</h3>
                 <ul>
-                    <li>Added words/phrases replacement features using AI enhancement</li>
-                    <li>Redesigned the dictionary view to be on the sidebar</li>
-                    <li>Fixed high ram usage even when app is idle(now will eat ~100Mb during idle state)</li>
-                    <li>Made the transcription pasting faster & more responsive</li>
-                
+                    <li>Added keyboard shortcut for toggling enhancement while recording (⌘E) </li>
+                    <li>Added keyboard shortcut for switching prompts while recording (⌘1-9) ⌨️</li>
+                    <li>Removed the custom prompt toggle </li>
+                    <li>Fixed Audio Visualizer not working 🎵</li>
+                    <li>Redesigned the prompt/examples view</li>
                 </ul>
+
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.73/VoiceInk.dmg" length="5407560" type="application/octet-stream" sparkle:edSignature="BvCugOapZjpAdN73mrt/f2HE4Sz8zIqHOmxwH8L0mvOmQFQQr/062/cCGsJq6UmUJMiVy/VZ5qMftZLKkQExCg=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.74/VoiceInk.dmg" length="5417220" type="application/octet-stream" sparkle:edSignature="RXK+96cuPnSulkXdTw+2RMDiXKKuYtpVVgf8kl1RevFj6kLDbMD41OG4NHoQ0Lm4MYWI15TR1ct3DI+XiG0nCQ=="/>
         </item>
     </channel>
 </rss>
