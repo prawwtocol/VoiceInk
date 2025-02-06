@@ -13,7 +13,7 @@
                 <ul>
                     <li>Added keyboard shortcut for toggling enhancement while recording (⌘E) </li>
                     <li>Added keyboard shortcut for switching prompts while recording (⌘1-9) ⌨️</li>
-                    <li>Removed the custom prompt toggle </li>
+                    <li>Removed the custom prompt toggle(copy your existing prompt, they'll be reset in the update) </li>
                     <li>Fixed Audio Visualizer not working 🎵</li>
                     <li>Redesigned the prompt/examples view</li>
                 </ul>
