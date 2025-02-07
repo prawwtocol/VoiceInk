@@ -3,12 +3,25 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.74</title>
-            <pubDate>Thu, 6 Feb 2025 05:51:55 +0545</pubDate>
-            <sparkle:version>74</sparkle:version>
-            <sparkle:shortVersionString>0.74</sparkle:shortVersionString>
+            <title>0.75</title>
+            <pubDate>Thu, 7 Feb 2025 05:51:55 +0545</pubDate>
+            <sparkle:version>75</sparkle:version>
+            <sparkle:shortVersionString>0.75</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+                <h3>What's New in Version 0.75 🚀</h3>
+                <ul>
+                    <li>Added Playback sound when recording starts and finishes (toggleable from Record View) 🔊</li>
+                    <li>Redesigned the sidebar to make it more Mac native 🖥️</li>
+                    <li>Removed mini recorder (now will only use the notch recorder) 📝</li>
+                    <li>Removed separate example management system 📁
+                        <ul>
+                            <li>Now you can add different examples to different modes aka prompts for more relevant use cases</li>
+                        </ul>
+                    </li>
+                    <li>Minor improvements in UI & Styling 🎨</li>
+                </ul>
+                
                 <h3>What's New in Version 0.74 🚀⚡</h3>
                 <ul>
                     <li>Added keyboard shortcut for toggling enhancement while recording (⌘E) </li>
@@ -19,7 +32,7 @@
                 </ul>
 
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.74/VoiceInk.dmg" length="5417220" type="application/octet-stream" sparkle:edSignature="RXK+96cuPnSulkXdTw+2RMDiXKKuYtpVVgf8kl1RevFj6kLDbMD41OG4NHoQ0Lm4MYWI15TR1ct3DI+XiG0nCQ=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.75/VoiceInk.dmg" length="5432985" type="application/octet-stream" sparkle:edSignature="9/bNYofe7OmYJZYtRkdVeLrAOCDwPRYvEtMEeUW2qIik+trwAk3AUVnYcbA9a82rv7hEJPm3idp0hSe8rXR1BQ=="/>
         </item>
     </channel>
 </rss>
