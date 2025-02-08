@@ -3,12 +3,19 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.75</title>
-            <pubDate>Thu, 7 Feb 2025 05:51:55 +0545</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>0.75</sparkle:shortVersionString>
+            <title>0.76</title>
+            <pubDate>Thu, 7 Feb 2025 07:51:55 +0545</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>0.76</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h3>What's New in Version 0.76 🚀⚡</h3>
+                <ul>
+                    <li>Added option to configure trigger mode for Assistant Mode (No more stuck with "Hey") </li>
+                </ul>
+
+                
                 <h3>What's New in Version 0.75 🚀</h3>
                 <ul>
                     <li>Added Playback sound when recording starts and finishes (toggleable from Record View) 🔊</li>
@@ -32,7 +39,7 @@
                 </ul>
 
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.75/VoiceInk.dmg" length="5432985" type="application/octet-stream" sparkle:edSignature="9/bNYofe7OmYJZYtRkdVeLrAOCDwPRYvEtMEeUW2qIik+trwAk3AUVnYcbA9a82rv7hEJPm3idp0hSe8rXR1BQ=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.76/VoiceInk.dmg" length="5435275" type="application/octet-stream" sparkle:edSignature="tzHJI8F4kYZ/NRXZnsWxmTa9jxzTccxVj4+ICQU2Dmvyeo4TrT3+qGf4LF51Zf0sQLGLGz9viA8rphSI8jdBAA=="/>
         </item>
     </channel>
 </rss>
