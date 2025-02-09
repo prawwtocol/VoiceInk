@@ -3,12 +3,19 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.77</title>
-            <pubDate>Thu, 7 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>78</sparkle:version>
-            <sparkle:shortVersionString>0.77</sparkle:shortVersionString>
+            <title>0.79</title>
+            <pubDate>Thu, 9 Feb 2025 07:51:55 +0545</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>0.79</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h3>What's New in Version 0.79 🚀⚡</h3>
+                <ul>
+                    <li>Added a default mode in configuration view that will be used for all unconfigured apps </li>
+                    <li>Fixed Dock icon reappearing issue</li>
+                </ul>
+
 
                  <h3>What's New in Version 0.77 🚀⚡</h3>
                 <ul>
@@ -45,7 +52,7 @@
                 </ul>
 
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.77/VoiceInk.dmg" length="5502446" type="application/octet-stream" sparkle:edSignature="/J2TVLdr47afzhFRGM+CoRriw4CbTbkqxyU2kSne40YrBs+4Ymy3Re/IkeFQp9Ud3pPpCjpnE3JIYS7/hZ5XDA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.79/VoiceInk.dmg" length="5515308" type="application/octet-stream" sparkle:edSignature="RJ5JFJ93/dfxsS9A0Y1j8KCWEWXyNJ3eiiRBwPZKMyfroCjhQkwGMreAESxgL4Ephn4eJQaly8zbV1AZB1mMAQ=="/>
         </item>
     </channel>
 </rss>
