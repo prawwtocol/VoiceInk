@@ -12,7 +12,7 @@
 
                 <h3>What's New in Version 0.79 🚀⚡</h3>
                 <ul>
-                    <li>Added a default mode in configuration view that will be used for all unconfigured apps </li>
+                    <li>Added a default option for Power Mode that will be used for all unconfigured apps </li>
                     <li>Fixed Dock icon reappearing issue</li>
                 </ul>
 
