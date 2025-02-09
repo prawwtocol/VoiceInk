@@ -3,12 +3,18 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.76</title>
+            <title>0.77</title>
             <pubDate>Thu, 7 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>76</sparkle:version>
-            <sparkle:shortVersionString>0.76</sparkle:shortVersionString>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>0.77</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                 <h3>What's New in Version 0.77 🚀⚡</h3>
+                <ul>
+                    <li>Introduced Power Mode, which allows you to create app-specific enhancement settings </li>
+                    <li>Fixed minor bugs and issues, along with other improvements</li>
+                </ul>
 
                 <h3>What's New in Version 0.76 🚀⚡</h3>
                 <ul>
@@ -39,7 +45,7 @@
                 </ul>
 
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.76/VoiceInk.dmg" length="5435275" type="application/octet-stream" sparkle:edSignature="tzHJI8F4kYZ/NRXZnsWxmTa9jxzTccxVj4+ICQU2Dmvyeo4TrT3+qGf4LF51Zf0sQLGLGz9viA8rphSI8jdBAA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.77/VoiceInk.dmg" length="5503735" type="application/octet-stream" sparkle:edSignature="x8uX9mt6KdHkiidxvnnV62BOA291gM7eCYpfl97vvMQjuaqwYI36B/hL0ktO9VHKGK/VSuxf7MbQFnkro4rpAg=="/>
         </item>
     </channel>
 </rss>
