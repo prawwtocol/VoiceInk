@@ -3,12 +3,19 @@
     <channel>
         <title>VoiceInk</title>
         <item>
-            <title>0.79</title>
+            <title>0.80</title>
             <pubDate>Thu, 9 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>79</sparkle:version>
-            <sparkle:shortVersionString>0.79</sparkle:shortVersionString>
+            <sparkle:version>80</sparkle:version>
+            <sparkle:shortVersionString>0.80</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h3>What's New in Version 0.80 🚀⚡</h3>
+                <ul>
+                    <li>Added support for command key as a push-to-talk key </li>
+                    <li>Brought back the mini recorder with improvements and similar to notch recorder</li>
+                </ul>
+
 
                 <h3>What's New in Version 0.79 🚀⚡</h3>
                 <ul>
@@ -52,7 +59,7 @@
                 </ul>
 
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.79/VoiceInk.dmg" length="5515308" type="application/octet-stream" sparkle:edSignature="RJ5JFJ93/dfxsS9A0Y1j8KCWEWXyNJ3eiiRBwPZKMyfroCjhQkwGMreAESxgL4Ephn4eJQaly8zbV1AZB1mMAQ=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.80/VoiceInk.dmg" length="5528395" type="application/octet-stream" sparkle:edSignature="YlIldbF1FXEalCPRb+1d2cHoqkUMx2OXHhZ1M+OCmBNppCvE0V4wP18ZqPP8GE3XfIu8rZTMQaJPBfbdR6bNCw=="/>
         </item>
     </channel>
 </rss>
