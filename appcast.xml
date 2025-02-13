@@ -1,14 +1,23 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>VoiceInk</title>
+        <title>VoiceInk Releases</title>
         <item>
-            <title>0.80</title>
-            <pubDate>Thu, 9 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>0.80</sparkle:shortVersionString>
+            <title>0.81</title>
+            <pubDate>Thu, 13 Feb 2025 07:51:55 +0545</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>0.81</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h3>What's New in Version 0.81 🚀⚡</h3>
+            <ul>
+                <li>Added URL detection for Power Mode</li>
+                <li>Fixed taking too long to start recording after pressing hotkey</li>
+                <li>Added 3 prompt templates</li>
+                <li>Removed screen capture configuration from Power Mode</li>
+                <li>Removed the app sandbox information</li>
+            </ul>
 
                 <h3>What's New in Version 0.80 🚀⚡</h3>
                 <ul>
@@ -59,7 +68,7 @@
                 </ul>
 
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.80/VoiceInk.dmg" length="5528395" type="application/octet-stream" sparkle:edSignature="YlIldbF1FXEalCPRb+1d2cHoqkUMx2OXHhZ1M+OCmBNppCvE0V4wP18ZqPP8GE3XfIu8rZTMQaJPBfbdR6bNCw=="/>
+           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.81/VoiceInk.dmg" length="5558651" type="application/octet-stream" sparkle:edSignature="pkNZMUFtJTh3qMdIQxXkCpybw5duU3dJ9/R2jn1g4P+izi3nk54w+c4YcpTu+/aiPjIj0a9IUlrGvDRs1hZKCg=="/>
         </item>
     </channel>
 </rss>
