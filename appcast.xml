@@ -3,12 +3,22 @@
     <channel>
         <title>VoiceInk Releases</title>
         <item>
-            <title>0.82</title>
-            <pubDate>Thu, 15 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>82</sparkle:version>
-            <sparkle:shortVersionString>0.82</sparkle:shortVersionString>
+            <title>0.84</title>
+            <pubDate>Thu, 16 Feb 2025 07:51:55 +0545</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.84</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h3>What's New in Version 0.84 🚀⚡</h3>
+            <ul>
+                <li>Persist recorded audio file in transcript history</li>
+                <li>Added support for Anthropic & Google Gemini API keys</li>
+               
+                
+            </ul>
+
+                
                 <h3>What's New in Version 0.82 🚀⚡</h3>
             <ul>
                 <li>Switch AI providers directly from Menu bar</li>
@@ -75,7 +85,7 @@
                 </ul>
 
             ]]></description>
-           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.82/VoiceInk.dmg" length="5561198" type="application/octet-stream" sparkle:edSignature="zyxVtSSGFnIFdZilPBLY1gxjx7B5JSWtD8Kn3Tc2aVdEHaqJ0M9zfhSqralOMNx59gpRzK4ryk5eyDB0DkM7Dw=="/>
+           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/0.84/VoiceInk.dmg" length="5620396" type="application/octet-stream" sparkle:edSignature="8P4Mn1soMsjrMYYsnIt6x1ex2xxHs/HVls0o3kuVlWifQe9ZQ1x3Jp3UbHWoYMYAe2oNxzLO8EwzpadIf828DA=="/>
         </item>
     </channel>
 </rss>
