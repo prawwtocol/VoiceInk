@@ -3,12 +3,17 @@
     <channel>
         <title>VoiceInk Releases</title>
         <item>
-            <title>0.84</title>
-            <pubDate>Thu, 16 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>0.84</sparkle:shortVersionString>
+            <title>0.86</title>
+            <pubDate>Thu, 17 Feb 2025 07:51:55 +0545</pubDate>
+            <sparkle:version>86</sparkle:version>
+            <sparkle:shortVersionString>0.86</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+
+                <h3>What's New in Version 0.86 🚀⚡</h3>
+            <ul>
+                <li>Change AI Models directly from the Menu bar</li>
+                <li>Fixed URL detection for Firefox & Zen Browser</li>
 
                 <h3>What's New in Version 0.84 🚀⚡</h3>
             <ul>
@@ -85,7 +90,7 @@
                 </ul>
 
             ]]></description>
-           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/0.84/VoiceInk.dmg" length="5620396" type="application/octet-stream" sparkle:edSignature="8P4Mn1soMsjrMYYsnIt6x1ex2xxHs/HVls0o3kuVlWifQe9ZQ1x3Jp3UbHWoYMYAe2oNxzLO8EwzpadIf828DA=="/>
+           <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.86/VoiceInk.dmg" length="5623405" type="application/octet-stream" sparkle:edSignature="hNpixyAGCcq/mg8JGjJGTOWlVKyZabp5lnNC1SdtG7KSNKByuNTnNtrrwwJkJfB7DVP5bxoeVyCAp3M5KMm0Dw=="/>
         </item>
     </channel>
 </rss>
