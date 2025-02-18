@@ -10,17 +10,17 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 
-                <h3>What's New in Version 0.87 🚀⚡</h3>
-            <ul>
-                <li>Fixed Anthopic API key not working</li>
-                <li>Minor Bug Fixes</li>
-            <ul>
+<h3>What's New in Version 0.87 🚀⚡</h3>
+<ul>
+<li>Fixed Anthopic API key not working</li>
+<li>Minor Bug Fixes</li>
+<ul>
 
-                <h3>What's New in Version 0.86 🚀⚡</h3>
-            <ul>
-                <li>Change AI Models directly from the Menu bar</li>
-                <li>Fixed URL detection for Firefox & Zen Browser</li>
-            <ul>
+<h3>What's New in Version 0.86 🚀⚡</h3>
+<ul>
+<li>Change AI Models directly from the Menu bar</li>
+<li>Fixed URL detection for Firefox & Zen Browser</li>
+<ul>
 
             ]]></description>
             <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.87/VoiceInk.dmg" length="5627963" type="application/octet-stream" sparkle:edSignature="3l7niQ21VsGKfQMp3adNdFjPTBcHFwkrWOmAZgqzTGjMIWExAmiWZA1GHZ6vBYstT35yZPA5D2PcN1/S1jb/AA=="/>
