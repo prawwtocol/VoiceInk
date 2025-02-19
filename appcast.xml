@@ -3,23 +3,22 @@
     <channel>
         <title>VoiceInk Releases</title>
         <item>
-            <title>0.87</title>
-            <pubDate>Thu, 17 Feb 2025 07:51:55 +0545</pubDate>
-            <sparkle:version>87</sparkle:version>
-            <sparkle:shortVersionString>0.87</sparkle:shortVersionString>
+            <title>0.89</title>
+            <pubDate>Thu, 19 Feb 2025 07:51:55 +0545</pubDate>
+            <sparkle:version>89</sparkle:version>
+            <sparkle:shortVersionString>0.89</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
 
-<h3>What's New in Version 0.87 🚀⚡</h3>
-<ul>
-<li>Fixed Anthopic API key not working</li>
-<li>Minor Bug Fixes</li>
-<ul>
-
-
+                    <h3>What's New in Version 0.89 🚀⚡</h3>
+                        <ul>
+                            <li>Added support for proper language detection (Try it with your native language(other than English) </li>
+                            <li>Fixed Native Mac apps not appearing on Power Mode</li>
+                            <li>Fixed random app freeze issue</li>
+                            <li>Made Screen Capture service more reliable</li>
+                        </ul>
             ]]></description>
-            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.87/VoiceInk.dmg" length="5627963" type="application/octet-stream" sparkle:edSignature="3l7niQ21VsGKfQMp3adNdFjPTBcHFwkrWOmAZgqzTGjMIWExAmiWZA1GHZ6vBYstT35yZPA5D2PcN1/S1jb/AA=="/>
+            <enclosure url="https://github.com/Beingpax/VoiceInk/releases/download/v0.89/VoiceInk.dmg" length="5628266" type="application/octet-stream" sparkle:edSignature="XSlzGB5MEx1/uM5BGOeGwyaUkyOdrolv0+bVeCfy0AC9f2Gt+CMd6ktJu2W3luNjpr1FT/OqCQhu1LADIMC5BQ=="/>
         </item>
-        
     </channel>
 </rss>
