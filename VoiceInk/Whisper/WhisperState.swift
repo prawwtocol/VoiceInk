@@ -61,7 +61,6 @@ class WhisperState: NSObject, ObservableObject, AVAudioRecorderDelegate {
     let modelsDirectory: URL
     let recordingsDirectory: URL
     private let enhancementService: AIEnhancementService?
-    private let licenseViewModel: LicenseViewModel
     private let logger = Logger(subsystem: "com.prakashjoshipax.voiceink", category: "WhisperState")
     private var transcriptionStartTime: Date?
     private var notchWindowManager: NotchWindowManager?
@@ -74,7 +73,6 @@ class WhisperState: NSObject, ObservableObject, AVAudioRecorderDelegate {
             .appendingPathComponent("com.prakashjoshipax.VoiceInk")
             .appendingPathComponent("Recordings")
         self.enhancementService = enhancementService
-        self.licenseViewModel = LicenseViewModel()
         
         super.init()
         
@@ -381,14 +379,6 @@ class WhisperState: NSObject, ObservableObject, AVAudioRecorderDelegate {
                 )
                 modelContext.insert(newTranscription)
                 try? modelContext.save()
-            }
-            
-            if case .trialExpired = licenseViewModel.licenseState {
-                text = """
-                    Your trial has expired. Upgrade to VoiceInk Pro at tryvoiceink.com/buy
-                    
-                    \(text)
-                    """
             }
             
             messageLog += "Done: \(text)\n"

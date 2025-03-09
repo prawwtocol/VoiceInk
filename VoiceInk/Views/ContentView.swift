@@ -13,7 +13,6 @@ enum ViewType: String, CaseIterable {
     case permissions = "Permissions"
     case audioInput = "Audio Input"
     case dictionary = "Dictionary"
-    case license = "VoiceInk Pro"
     case settings = "Settings"
     case about = "About"
     
@@ -28,7 +27,6 @@ enum ViewType: String, CaseIterable {
         case .permissions: return "shield.fill"
         case .audioInput: return "mic.fill"
         case .dictionary: return "character.book.closed.fill"
-        case .license: return "checkmark.seal.fill"
         case .settings: return "gearshape.fill"
         case .about: return "info.circle.fill"
         }
@@ -57,7 +55,6 @@ struct DynamicSidebar: View {
     @Binding var selectedView: ViewType
     @Binding var hoveredView: ViewType?
     @Environment(\.colorScheme) private var colorScheme
-    @StateObject private var licenseViewModel = LicenseViewModel()
     @Namespace private var buttonAnimation
 
     var body: some View {
@@ -74,16 +71,6 @@ struct DynamicSidebar: View {
                 
                 Text("VoiceInk")
                     .font(.system(size: 14, weight: .semibold))
-                
-                if case .licensed = licenseViewModel.licenseState {
-                    Text("PRO")
-                        .font(.system(size: 9, weight: .heavy))
-                        .foregroundStyle(.white)
-                        .padding(.horizontal, 4)
-                        .padding(.vertical, 2)
-                        .background(Color.blue)
-                        .cornerRadius(4)
-                }
                 
                 Spacer()
             }
@@ -165,7 +152,6 @@ struct ContentView: View {
     @State private var hoveredView: ViewType?
     @State private var hasLoadedData = false
     let appVersion = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "1.0.0"
-    @StateObject private var licenseViewModel = LicenseViewModel()
     
     private var isSetupComplete: Bool {
         hasLoadedData &&
@@ -206,9 +192,6 @@ struct ContentView: View {
                 case "AI Models":
                     print("ContentView: Navigating to AI Models")
                     selectedView = .models
-                case "VoiceInk Pro":
-                    print("ContentView: Navigating to VoiceInk Pro")
-                    selectedView = .license
                 case "History":
                     print("ContentView: Navigating to History")
                     selectedView = .history
@@ -256,8 +239,6 @@ struct ContentView: View {
                 .environmentObject(whisperState)
         case .about:
             AboutView()
-        case .license:
-            LicenseManagementView()
         case .permissions:
             PermissionsView()
         }
